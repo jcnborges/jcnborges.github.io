@@ -1,13 +1,13 @@
 ---
 layout: about
-title: Júlio C. N. <br>Borges</br>
+title: about
 permalink: /
 subtitle: PhD Candidate, Federal Technological University of Paraná (UTFPR), Brazil
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>+55 41 99841-6013</p>
     <p>3165 September 7th Avenue</p>
