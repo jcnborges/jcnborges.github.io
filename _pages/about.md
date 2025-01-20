@@ -23,9 +23,7 @@ I'm a PhD Candidate at the <a href='https://www.utfpr.edu.br/cursos/coordenacoes
 
 During the doctorate, I spent two months (Guest Visiting Researcher Program - UNICAMP) as a visiting researcher at the <a href='https://hiaac.unicamp.br/en/'>Artificial Intelligence and Cognitive Architectures Hub (H.IAAC)</a> at the <a href=' Institute of Computing - UNICAMP'> Institute of Computing - UNICAMP</a>.
 
-I'm also a lectioner at the <a href='https://www.unisenaipr.com.br/'>National Industrial Learning Service in the State of Paraná (SENAI)</a>.
-
-Before joining CPGEI and SENAI, I earned a BS in Computer Engineering (2012) and an MS in Applied Computing (2020), both from the UTFPR.
+Before joining CPGEI and CNPq, I earned a BS in Computer Engineering (2012) and an MS in Applied Computing (2020), both from the UTFPR.
 
 My research interests are:
 
